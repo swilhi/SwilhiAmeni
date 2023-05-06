@@ -1,0 +1,13 @@
+package com.exam.swilhiameni;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SwilhiAmeniApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
